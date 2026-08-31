@@ -59,9 +59,9 @@ Compare the results obtained from Global, Adaptive, and Otsu's thresholding meth
 
 ## Developed By
 
-**Name:** Apshara Priyadharshini M
+**Name:** Joshua Clement D
 
-**Register No:** 212225040026
+**Register No:** 212224040143
 
 ## Output
 
@@ -81,7 +81,7 @@ else:
     plt.axis("off")
     plt.show()
 ```
-<img width="872" height="540" alt="image" src="https://github.com/user-attachments/assets/fd5c820f-7b3e-4105-bdc1-e5846e1ea0fb" />
+<img width="160" height="250" alt="image" src="https://github.com/user-attachments/assets/e4f115d2-d337-4918-8c15-2e92379e99b7" />
 
 ### Original Grayscale Image
 ```
@@ -93,7 +93,7 @@ plt.title("Original Grayscale Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="891" height="542" alt="image" src="https://github.com/user-attachments/assets/606137a1-51a9-4290-bccf-a9117231240b" />
+<img width="265" height="498" alt="image" src="https://github.com/user-attachments/assets/69b7f154-6e49-4185-96b4-7a535fa5f8bb" />
 
 ### Global Thresholding
 ```
@@ -106,7 +106,7 @@ plt.title("Global Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="862" height="552" alt="image" src="https://github.com/user-attachments/assets/f4a74e15-d270-4ed9-87d8-a39647a136ac" />
+<img width="223" height="285" alt="image" src="https://github.com/user-attachments/assets/24ca5bc4-2a67-4239-8917-49acfe84b8de" />
 
 
 ### Adaptive Thresholding
@@ -125,7 +125,7 @@ plt.title("Adaptive Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="909" height="536" alt="image" src="https://github.com/user-attachments/assets/529b4a2c-c35f-47c9-a913-c8fa091ceb79" />
+<img width="241" height="286" alt="image" src="https://github.com/user-attachments/assets/4c7f666d-82f3-4957-962a-819f5fcd6582" />
 
 ### Otsu's Thresholding
 ```
@@ -141,7 +141,7 @@ plt.title("Otsu's Thresholding")
 plt.axis("off")
 plt.show()
 ```
-<img width="869" height="527" alt="image" src="https://github.com/user-attachments/assets/d941b80a-9a53-4613-b8d9-46017613987f" />
+<img width="171" height="268" alt="image" src="https://github.com/user-attachments/assets/0001d849-eb3e-41c1-990c-eb55783882d6" />
 
 
 ## Result
